@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../../../Autonomous EV"
+		},
+		{
+			"name": "Direction control",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
